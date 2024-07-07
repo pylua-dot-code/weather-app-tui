@@ -12,5 +12,5 @@ This is how I am making this project:
  - I have decided to use tview for the TUI library as it seems to fit my needs.
  - I am attempting to follow Go file structures but as this is my first project I cannot guarantee a clean and easy to understand project. I used [this project](https://github.com/Skarlso/gtui) as a reference to how to do this.
 
-## Building
-No steps are avalible at this time as I have only just started using go.
+## Install?
+No steps are avalible at this time as the project is not completed

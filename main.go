@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/pyluadotcode/pkg"
+	"weather-app-tui/pkg"
 )
 
 func main() {

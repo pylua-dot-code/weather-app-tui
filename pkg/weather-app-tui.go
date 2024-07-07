@@ -1,10 +1,14 @@
 package pkg
 
 import (
-	"fmt"
+	"github.com/rivo/tview"
 )
 
 func Program() error {
-	fmt.Println("Hello World!")
+	app := tview.NewApplication()
+	flex := tview.NewFlex()
+	if err := app.SetRoot(flex, true).SetFocus(flex).Run(); err != nil {
+		return (err)
+	}
 	return (nil)
 }

@@ -7,7 +7,8 @@ I have made this project for 2 main reasons
  - I also have been wanting to make something TUI based, and something I would find usefull. A weather app seemed like a good idea for me
 
 ## How?
-I am making this using VSCode on Ubuntu 24.04LTS
+I am making this using VSCode on Ubuntu 24.04LTS.
+
 I have decided to use tview for the TUI library as it seems to fit my needs.
 
 ## Building:
